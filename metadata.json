@@ -1,0 +1,11 @@
+{
+  "name": "ادارة مدرسة الركن اليماني للبنين",
+  "description": "نظام الإدارة المدرسية المتكامل لإدارة الطلاب والدرجات والقاعات الامتحانية",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ],
+  "prompt": ""
+}
